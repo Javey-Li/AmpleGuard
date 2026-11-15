@@ -1,6 +1,6 @@
 {
- "version": "3.8",
- "dmg_url": "https://github.com/Javey-Li/AmpleGuard/releases/download/v3.8/AmpleGuard-v3.8.dmg",
- "sha256": "b89f343212d62dd615397a677df41f780a9aef57daeefea1f911c3592baf6102",
- "notes": "报告自动进 Issues 后台"
+ "version": "3.9",
+ "dmg_url": "https://github.com/Javey-Li/AmpleGuard/releases/download/v3.9/AmpleGuard-v3.9.dmg",
+ "sha256": "688858ac856981c9b7b6dadc76da63119de5370fd50b2751423ac5fef4bb04a5",
+ "notes": "报告自动开 Issue"
 }
